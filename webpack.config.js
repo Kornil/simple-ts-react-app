@@ -29,7 +29,7 @@ module.exports = {
     rules: [
       {
         test: /\.tsx?$/,
-        loader: 'awesome-typescript-loader',
+        loader: 'babel-loader',
       },
       {
         enforce: 'pre',
