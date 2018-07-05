@@ -1,5 +1,7 @@
 # simple-ts-react-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kornil/simple-ts-react-app.svg)](https://greenkeeper.io/)
+
 React starter project written in typescript, includes redux, webpack, babel, sass, jest & enzyme.
 
 
