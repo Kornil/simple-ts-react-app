@@ -10,6 +10,9 @@
   },
   "keywords": [],
   "author": "",
+  "bin": {
+    "simple-ty-app": "./bin/stra.js"
+  },
   "license": "ISC",
   "jest": {
     "roots": [
