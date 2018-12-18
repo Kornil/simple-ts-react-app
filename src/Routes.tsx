@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import { Route, RouteProps, Switch } from "react-router-dom";
 import { About, Home } from "./containers";
 
