@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "fs-extra": "^7.0.1",
-    "react": "^16.4.1",
+    "react": "^16.10.0",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1"
   }
